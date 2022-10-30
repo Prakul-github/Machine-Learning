@@ -2,4 +2,4 @@ https://towardsdatascience.com/end-to-end-machine-learning-project-telco-custome
 
 
 Access token 
-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
+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
